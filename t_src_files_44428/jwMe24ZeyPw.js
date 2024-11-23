@@ -1,0 +1,1 @@
+{"translations":{"CW7b6L3Ov_q":"Channel info","g0IUsPD7Gcj":"Could not unmute channel. Check your connection and try again.","oYk4h69chfN":"Could not mute channel. Check your connection and try again.","p-gETZFMnl-":"Copy link","YAbeWVfyJ--":"Unfollow","GEzDgS2E4L-":"Delete channel"},"virtual_modules":["WAWebNewsletterContextMenu$fbt_virtual"]}

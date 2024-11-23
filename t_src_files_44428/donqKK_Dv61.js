@@ -1,0 +1,1 @@
+{"translations":{"L2o4PBbnUp3":"Sticker details","VqxEMRvcxfc":"Created by {name}","VhcHu3eBpS7":"{size}","xs0JP0RaCxr":"Unable to find sticker pack","QdrQmdgLdNk":"WhatsApp Sticker Store"},"virtual_modules":["WAWebStickersPackDetailsDrawerModal.react$fbt_virtual","WAWebStickersStoreDrawerModal.react$fbt_virtual"]}

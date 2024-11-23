@@ -1,0 +1,1 @@
+{"translations":{"NK7gu5Vl7jn":"Add to favourites","YH6RJURlKOA":"Add to favorites"},"virtual_modules":["WAWebAddToFavoritesModal.react$fbt_virtual"]}

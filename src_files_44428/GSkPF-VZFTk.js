@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("WAWebBizOrderStatusUpdateFlow.react",["$InternalEnum","WAWebOrderStatusUpdateDrawer.react","react","useWAWebFlow"],(function(a,b,c,d,e,f,g){var h,i=h||c("react"),j=b("$InternalEnum").Mirrored(["Updatestatus"]);function a(a){var b=a.chat,e=a.entryPoint,f=a.orderInfo;a=a.sellerJid;var g=d("useWAWebFlow").useFlow(j.Updatestatus,{transitions:d("useWAWebFlow").FlowTransitions.DrawerRight}),h=g[0];g=g[1];e=i.jsx(c("WAWebOrderStatusUpdateDrawer.react"),{entryPoint:e,chat:b,onBack:g.pop,orderInfo:f,sellerJid:a});return i.jsx(h,{flow:g,children:e})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);

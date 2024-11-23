@@ -1,0 +1,33 @@
+{
+  "id": "3ad81cf7-95e8-4f51-bdc9-27a381424367",
+  "version": "2.0",
+  "name": "whatsapp",
+  "url": "",
+  "tests": [{
+    "id": "340046dd-7189-4df2-a327-f901b5d8ba56",
+    "name": "Untitled",
+    "commands": [{
+      "id": "fbabbcb8-bc91-4610-9aa3-0acd73b5b777",
+      "comment": "",
+      "command": "waitForElementVisible",
+      "target": "css=.\\_aj-e > .x1n68mz9",
+      "targets": [
+        ["css=.\\_aj-e > .x1n68mz9", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[2]/div[3]/div/div/div/div[3]/div/span", "xpath:idRelative"],
+        ["xpath=//div[3]/div/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Link with phone number')]", "xpath:innerText"]
+      ],
+      "value": "30000"
+    }]
+  }],
+  "suites": [{
+    "id": "4b5e52ae-527b-4025-9e7e-309d55c559bc",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["340046dd-7189-4df2-a327-f901b5d8ba56"]
+  }],
+  "urls": [],
+  "plugins": []
+}

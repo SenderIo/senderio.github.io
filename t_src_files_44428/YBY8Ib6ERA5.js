@@ -1,0 +1,1 @@
+{"translations":{"9A3i9M0g80f":"Any list you create becomes a filter at the top of your Chats tab.","RUvfTxNbuVX":"Only you can see your lists.","atXmRGTjNGx":"Edit your lists anytime in Settings.","ZmydX4XTjog":"Organize your chats with Lists"},"virtual_modules":["WAWebListsIntroPopup.react$fbt_virtual"]}
