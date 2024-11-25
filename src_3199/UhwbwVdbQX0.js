@@ -24,22 +24,15 @@ __d(
     }
     a = {
       addListenerWithOptions: function (a, b, c, d) {
-        debugger;  
         return h(a, b, c, d);
       },
       bubbleWithPassiveFlag: function (a, b, c, d) {
-        debugger;  
-
         return h(a, b, c, { capture: !1, passive: d });
       },
       capture: function (a, b, c) {
-        debugger;  
-
         return h(a, b, c, !0);
       },
       captureWithPassiveFlag: function (a, b, c, d) {
-        debugger;  
-
         return h(a, b, c, { capture: !0, passive: d });
       },
       listen: function (a, b, c) {
@@ -11830,7 +11823,6 @@ __d(
     }
     function Om() {
       console.log('The function On was called');
-      debugger;
     }
     function aa(d, e, f, g, h, i) {
       switch (f) {
